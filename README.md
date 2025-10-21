@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Ramjan Khan**  
+👋 Hola, **Ramjan Khan**  here
 🎓 I’m a student / developer passionate about AI, Web Development, and Open Source.  
 🚀 I work with **.NET**, **React**, and **AI Integrations**.  
 🚀 Currently learning **Workflow-automation**, **PowerBI**, and **interesting tools I am attracted**.  
