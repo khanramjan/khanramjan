@@ -1,44 +1,64 @@
-# 💫 About Me:
-👋 Hola, **Ramjan Khan**  here.
+<div align="center">
 
-🎓 I’m a student / developer passionate about AI, Web Development, and Open Source.  
-🚀 I work with **.NET**, **React**, and **AI Integrations**.  
-🚀 Currently learning **Workflow-automation**, **PowerBI**, and **interesting tools I am attracted**.  
+# 🚀 Ramjan Khan
 
----
+### `Building modern products with .NET • React • AI Integrations`
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Razor View](https://img.shields.io/badge/Razor%20View-68217A?style=for-the-badge&logo=razorpay&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3500&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Student+Developer+from+Bangladesh;Crafting+Futuristic+Web+Experiences;Exploring+AI+%2B+Workflow+Automation+%2B+Power+BI)](https://git.io/typing-svg)
 
-
-
-### 🧩 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ef4444?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khanramjan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khanramjan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khanramjan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
+👋 Hola! I'm **Ramjan Khan** — a student developer passionate about:
+- 🤖 **AI-powered integrations**
+- 🌐 **Modern web development**
+- 🧩 **Open-source and automation-first solutions**
+
+Right now, I’m actively working with **.NET**, **React**, and **AI integrations**, while expanding into **workflow automation**, **Power BI**, and high-impact productivity tools.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ramjan-khan-0a301b2b5/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rakthespacecat)
+## 🛠️ Core Tech Stack
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=c-sharp&logoColor=7C3AED)
+![.NET](https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=8B5CF6)
+![Razor](https://img.shields.io/badge/Razor-111827?style=for-the-badge&logo=.net&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=E5E7EB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+## ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC)
+![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FB923C)
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=EF4444)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=4ADE80)
+![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=FACC15)
+
+---
+
+## 🧠 What I’m Building
+- Smart web apps using **.NET + React**
+- Workflow-driven systems using **automation tools (n8n)**
+- Data storytelling and dashboards with **Power BI**
+- AI-enhanced features for real-world productivity
+
+---
+
+## 📊 GitHub Pulse
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=khanramjan&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=khanramjan&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanramjan&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramjan-khan-0a301b2b5/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rakthespacecat)
