@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hola, **Ramjan Khan**  here.
+👋 Hola, I’m **Ramjan Khan**.
 
-🎓 I’m a student / developer passionate about AI, Web Development, and Open Source.  
-🚀 I work with **.NET**, **React**, and **AI Integrations**.  
-🚀 Currently learning **Workflow-automation**, **PowerBI**, and **interesting tools I am attracted**.  
+🎓 I’m a student developer passionate about AI, web development, and open source.  
+🚀 I work with **.NET**, **React**, and **AI integrations**.  
+📚 Currently learning **workflow automation**, **Power BI**, and new tools that boost productivity.  
 
 ---
 
@@ -40,5 +40,5 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ramjan-khan-0a301b2b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramjan-khan-0a301b2b5/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rakthespacecat)
